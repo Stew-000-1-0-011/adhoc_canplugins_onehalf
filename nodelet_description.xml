@@ -1,0 +1,10 @@
+<library path="lib/libadhoc_canplugins_onehalf">
+
+  <class name="adhoc_canplugins_onehalf/AdhocCanPluginsBridgeNode"
+     type="crs_lib::AdhocCanPluginsBridgeNode"
+     base_class_type="nodelet::Nodelet">
+    <description>
+    </description>
+  </class>
+
+</library>
